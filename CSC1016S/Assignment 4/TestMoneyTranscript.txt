@@ -1,0 +1,71 @@
+Enter a currency code:
+GBP
+Enter a currency symbol:
+£
+Enter the number of minor currency units per major currency unit.
+100
+Creating currency object.
+Enter a sum of money e.g. R199.99 (assuming currency is ZAR): 
+£10.50
+Creating a Money object representing that amount.
+
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+1
+longAmount(): 1050
+
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+2
+Currency(): Currency(£, GBP, 100)
+
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+3
+toString(): £10.50
+
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+4
+Enter a sum of money e.g. R199.99 (assuming currency is ZAR):
+£9.50
+£10.50+£9.50=£20.00
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+5
+Enter a sum of money e.g. R199.99 (assuming currency is ZAR):
+£9.50
+£10.50-£9.50=£1.00
+Make a selection and press return:
+0. Quit.
+1. Test longAmount().
+2. Test currency().
+3. Test toString().
+4. Test add().
+5. Test subtract().
+0

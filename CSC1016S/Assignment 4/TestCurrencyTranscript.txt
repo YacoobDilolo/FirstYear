@@ -1,0 +1,68 @@
+Enter a currency code:
+ZAR
+Enter a currency symbol:
+R
+Enter the number of minor currency units per major currency unit.
+100
+Creating currency object.
+
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+1
+symbol(): R
+
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+2
+code(): ZAR
+
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+3
+minorPerMajor(): 100
+
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+4
+Enter the quantity of minor units:
+19999
+format(19999): R199.99
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+5
+Enter the currency amount e.g. R23.10:
+R351.99
+parse(R351.99): 35199
+Make a selection and press return:
+0. Quit.
+1. Test symbol().
+2. Test code().
+3. Test minorPerMajor().
+4. Test format().
+5. Test parse().
+0
